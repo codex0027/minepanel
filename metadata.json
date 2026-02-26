@@ -1,0 +1,5 @@
+{
+  "name": "MinePanel",
+  "description": "A high-performance, dark-themed admin panel for server management with real-time console and status controls.",
+  "requestFramePermissions": []
+}
